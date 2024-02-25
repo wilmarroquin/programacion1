@@ -18,6 +18,7 @@ main(){
 	}else{
 		cout<<"Reprobado"<<endl;
 	}*/
+	
 	//forma corto
 	mensaje= promedio>=61 ? "Aprobado" : "Reprobado";
 	cout<<"Su promedio es de: "<<promedio<<" por lo tanto "<<mensaje<<endl;
