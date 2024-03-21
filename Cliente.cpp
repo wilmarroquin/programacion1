@@ -14,7 +14,7 @@ class Cliente : Persona{
 		Cliente(string nom, string ape, string dir, int tel, string n)
 		: Persona(nom, ape, dir, tel){
 			nit= n;
-		}
+		}	
 		//metodos
 		// set (Modificar)
 		void setNit(string n){nit= n;}
