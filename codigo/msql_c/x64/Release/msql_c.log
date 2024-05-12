@@ -1,0 +1,4 @@
+﻿  Cliente.cpp
+C:\Users\WILMER\Documents\codigo\msql_c\Cliente.cpp(2,1): error C1004: se encontró un final de archivo no esperado
+  msql_c.cpp
+C:\Users\WILMER\Documents\codigo\msql_c\msql_c.cpp(4,7): error C2059: error de sintaxis: 'using namespace'
