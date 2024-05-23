@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WILMER\\Documents\\codigo\\",
+  "WorkspaceRootPath": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CFC890F-79C3-4469-BE8C-EBC5A91A2F2B}|msql_c\\msql_c.vcxproj|C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\msql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CFC890F-79C3-4469-BE8C-EBC5A91A2F2B}|msql_c\\msql_c.vcxproj|solutionrelative:msql_c\\msql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\msql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:msql_c\\msql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFC890F-79C3-4469-BE8C-EBC5A91A2F2B}|msql_c\\msql_c.vcxproj|C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CFC890F-79C3-4469-BE8C-EBC5A91A2F2B}|msql_c\\msql_c.vcxproj|solutionrelative:msql_c\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:msql_c\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFC890F-79C3-4469-BE8C-EBC5A91A2F2B}|msql_c\\msql_c.vcxproj|C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\ConexionDB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CFC890F-79C3-4469-BE8C-EBC5A91A2F2B}|msql_c\\msql_c.vcxproj|solutionrelative:msql_c\\ConexionDB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\ConexionDB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:msql_c\\ConexionDB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ConexionDB.h",
-              "DocumentMoniker": "C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\ConexionDB.h",
+              "DocumentMoniker": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\ConexionDB.h",
               "RelativeDocumentMoniker": "msql_c\\ConexionDB.h",
-              "ToolTip": "C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\ConexionDB.h",
+              "ToolTip": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\ConexionDB.h",
               "RelativeToolTip": "msql_c\\ConexionDB.h",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Cliente.h",
-              "DocumentMoniker": "C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\Cliente.h",
+              "DocumentMoniker": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\Cliente.h",
               "RelativeDocumentMoniker": "msql_c\\Cliente.h",
-              "ToolTip": "C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\Cliente.h",
+              "ToolTip": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\Cliente.h",
               "RelativeToolTip": "msql_c\\Cliente.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "msql_c.cpp",
-              "DocumentMoniker": "C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\msql_c.cpp",
+              "DocumentMoniker": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\msql_c.cpp",
               "RelativeDocumentMoniker": "msql_c\\msql_c.cpp",
-              "ToolTip": "C:\\Users\\WILMER\\Documents\\codigo\\msql_c\\msql_c.cpp",
+              "ToolTip": "C:\\Users\\WILMER\\Desktop\\POO\\codigo\\msql_c\\msql_c.cpp",
               "RelativeToolTip": "msql_c\\msql_c.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-30T01:02:00.13Z",
               "EditorCaption": ""

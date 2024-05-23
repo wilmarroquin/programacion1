@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFA6D80-3807-4B40-B87A-53FB07F1C14D}|mysll_c\\mysll_c.vcxproj|C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\mysll_c\\Tipo_sangre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EFA6D80-3807-4B40-B87A-53FB07F1C14D}|mysll_c\\mysll_c.vcxproj|solutionrelative:mysll_c\\Tipo_sangre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFA6D80-3807-4B40-B87A-53FB07F1C14D}|mysll_c\\mysll_c.vcxproj|C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\mysll_c\\mysll_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EFA6D80-3807-4B40-B87A-53FB07F1C14D}|mysll_c\\mysll_c.vcxproj|solutionrelative:mysll_c\\mysll_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tipo_sangre.h",
+              "DocumentMoniker": "C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\mysll_c\\Tipo_sangre.h",
+              "RelativeDocumentMoniker": "mysll_c\\Tipo_sangre.h",
+              "ToolTip": "C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\mysll_c\\Tipo_sangre.h",
+              "RelativeToolTip": "mysll_c\\Tipo_sangre.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T00:53:36.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mysll_c.cpp",
+              "DocumentMoniker": "C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\mysll_c\\mysll_c.cpp",
+              "RelativeDocumentMoniker": "mysll_c\\mysll_c.cpp",
+              "ToolTip": "C:\\Users\\WILMER\\Desktop\\Repositorios\\POO\\Estudiantes\\mysll_c\\mysll_c.cpp",
+              "RelativeToolTip": "mysll_c\\mysll_c.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T00:25:24.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
